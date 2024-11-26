@@ -1,11 +1,11 @@
-Title: Dungeon Adventure Game
+Title: Trice Dungeon Adventure Game
 Author: Beatrice Akinpelu
 Date: November 20, 2024
 
 Purpose of the Code
-This code is a text-based adventure game designed to offer players an immersive experience in a fictional fantasy world. Players navigate through different chapters, make strategic choices, and interact with challenges such as combat, exploration, and skill progression. The game combines elements of role-playing (RPG), resource management, and decision-making to create an engaging journey.
+This code is a text-based adventure game designed to offer players an immersive experience in a fictional fantasy world. Players navigate through different chapters, make strategic choices, and interact with challenges such as combat, exploration, and skill progression. The game combines role-playing (RPG), resource management, and decision-making elements to create an engaging journey.
 
-The game was created to demonstrate creativity in game development, practice programming skills (especially Python object-oriented principles), and entertain users with a fun and dynamic experience.
+The game was created to demonstrate creativity in game development, practice programming skills and entertain users with a fun and dynamic experience.
 
 How the Code Works
 1. Player Setup and Initialization
@@ -21,6 +21,7 @@ Add, remove, and check items in inventory.
 Regain health by resting.
 Train skills to increase strength and agility.
 Unlock skills from the skill_tree.
+
 2. Game Structure and Chapters
 The game is divided into five chapters, each representing a stage in the player’s journey:
 
@@ -29,7 +30,7 @@ Chapter 2: They enter the Forest of Shadows, facing traps and bandits.
 Chapter 3: They cross a dangerous canyon, dealing with enemies and environmental challenges.
 Chapter 4: They infiltrate a fortress and confront its guards.
 Chapter 5: The final showdown with the warlord to reclaim an artifact.
-Each chapter introduces new story elements, randomized events, and challenges to test the player’s decision-making and resource management.
+Each chapter introduces new story elements, randomized events, and challenges that test the player’s decision-making and resource-management skills.
 
 3. Gameplay Actions
 During gameplay, players can choose from the following options:
@@ -42,6 +43,7 @@ Search for Supplies: Find useful items like weapons or potions.
 Train Skills: Improve strength and agility, making future battles easier.
 Unlock Skills: Access new abilities (e.g., stealth or advanced combat) from the skill tree.
 Quit Game: Exit the adventure.
+
 4. Combat and Randomized Events
 Combat: Players face enemies like bandits, goblins, or fortress guards. They decide whether to fight or retreat, influencing the story's outcome.
 Randomized Events: Surprise elements, such as ambushes, falling rocks, or storms, add unpredictability to the gameplay. These events challenge the player’s ability to adapt.
